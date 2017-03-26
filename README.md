@@ -1,5 +1,10 @@
 Calculadora Con Interfaz en Python
 ==================================
 
-Esta es unna calculadora hecha en python y usando el paquete de modulos PyQt, de donde importamos el modulo
-QtGui que es el que vamos a usar para nuestra interfaz
+Calculadora hecha en python con Interfaces. A travéz del uso del Paquete de módulos PyQt, del cual importamos el módulo QtGui para la creación de Interfaces.
+
+Requisitos
+----------
+
+* Tener Instalado Python
+* Tener Instalado PyQt4
